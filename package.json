@@ -1,0 +1,21 @@
+{
+  "name": "poo-js",
+  "version": "1.0.0",
+  "description": "Formação Alura de JavaScript para back-end: Curso de Programação Orientada a Objetos",
+  "type": "module",
+  "main": "User.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvasconcelos710/POO-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvasconcelos710/POO-JavaScript/issues"
+  },
+  "homepage": "https://github.com/bvasconcelos710/POO-JavaScript#readme"
+}
